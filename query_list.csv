@@ -1,0 +1,70 @@
+﻿query_name,class,note
+pull_snp_member,snpQueries,member basic info with enrollment info from MEDICARE_ENROLLMENT
+pull_star_member,snpQueries,member basic info with plan info from VW_PlanPerReportingYear
+pull_hedis,snpQueries,member hedis status
+pull_ked_gap_status,snpQueries,KED measure detail
+pull_star_measure,snpQueries,star measure  list with cutpoint
+pull_measure_monthly_snapshot,snpQueries,star measure status by month
+pull_clinical_condition,snpQueries,members' clinical condition
+pull_ev_call,snpQueries,ev call info 3 year back
+pull_ev_call_current_year,snpQueries,like pull_ev_call but current year
+pull_ev_call_sop,snpQueries,"ev call info for a specific report, should be gone"
+pull_med_cost,snpQueries,member level paid claim cost
+pull_dental_util,snpQueries,member level dental utilization data
+pull_prefer_language,snpQueries,member's prefered language info
+pull_member_phone_info,snpQueries,"member phone related info such as number, dnc, best time to call"
+pull_member_do_not_mail,snpQueries,do not mail list
+pull_call_log_all_bq,snpQueries,call log info for cm engagement
+pull_vbc,snpQueries,member level provider info with VBC
+pull_risk_strat_from_icp,snpQueries,member risk strat from ICP
+pull_risk_strat_bq,snpQueries,member risk strat
+pull_vbc_report_snp_members,snpQueries,"pull all snp member demo info for vbc, non vbc report, need name change"
+pull_annual_wellness_visit_bq,snpQueries,annual wellness visit date info from claim data
+pull_race,snpQueries,member race indicator from member demo
+pull_race_language,snpQueries,member race and language info from VW_GetMemberRaceLanguage
+pull_mbr_contact_legal_bq,snpQueries,member legal contact info
+pull_scores_from_medcompass_bq,snpQueries,pull various members' scores
+pull_provider_demo_info,snpQueries,"provider info such as address, facility name"
+pull_cm_info,snpQueries,case manager info and program status
+pull_med_adherence,snpQueries,med adherence data
+pull_med_adherence_detail,snpQueries,"med adherence detail, such as pharm name, days late last fill"
+pull_icp_case_note_bq,snpQueries,icp case note detail
+pull_care_plan_date_bq,snpQueries,care plan date info
+pull_member_ict_case_note_bq,snpQueries,Interdisciplinary Care Team (ICT) detail
+pull_member_program_bq,snpQueries,member program status info
+pull_prefer_language_bq,snpQueries,member race and language info from Member_VW_GetMemberRaceLanguage
+pull_member_phone_info_bq,snpQueries,"member phone related info such as number, dnc, best time to call"
+pull_disability_bq,snpQueries,"esrd, disability ind from member coverage detail"
+pull_hra_qa_by_section_bq,hraQueries,pulling HRA QA by section
+pull_hot_mac_call_bq,hotMacQueries,hot and mac team call info
+pull_utilization,populDashQueries,member utilization info
+pull_ip_visit_from_hedis,populDashQueries,member inpatient visit info from hedis db
+pull_provider_demographic,populDashQueries,provider demographic info
+pull_er_visit,populDashQueries,emergency visit info
+pull_pcp_visit,populDashQueries,PCP visit info
+pull_healthhub,populDashQueries,CVS healthhub location info
+pull_geo_info,populDashQueries,member geographic info
+pull_residence_type_bq,populDashQueries,member residence type info
+pull_ctm,populDashQueries,member ctm info
+pull_grievance,populDashQueries,member grievance info
+pull_call_log_nj,qnxtQueries,"pull NJ call from dynamo, successful only"
+pull_call_log_nj_all,qnxtQueries,pull NJ call from dynamo
+pull_call_log_va,qnxtQueries,"pull VA call from dynamo, successful only"
+pull_call_log_va_all,qnxtQueries,pull VA call from dynamo
+pull_call_log_ca,qnxtQueries,pull CA call from dynamo
+pull_risk_strat_nj,qnxtQueries,pull NJ member risk strat
+pull_risk_strat_va,qnxtQueries,pull VA member risk strat
+pull_risk_strat_ca,qnxtQueries,pull CA member risk strat
+pull_letter_ca,qnxtQueries,pull CA letter outreach info
+pull_prefer_language_qnxt,qnxtQueries,qnxt member language info
+pull_icp_audit_trail_curated_bq,auditQueries,member care plan info for audit
+pull_icp_case_note_bq,auditQueries,member icp case note info for audit
+pull_icp_risk_strat_with_lob_bq,auditQueries,pull member risk strat for audit
+pull_hra_call_bq,auditQueries,member call log info for audit
+pull_ict_bq,auditQueries,member hra ict info for audit
+pull_ict_case_note_from_assessment_bq,auditQueries,member ict cast note info for audit
+pull_hospitalization_pre_auth_records_bq,auditQueries,member in patient pro auth record info for audit
+pull_post_discharge_call_bq,auditQueries,member post discharge call log for audit
+pull_hospitalization_approved_days_bq,auditQueries,member in patient approval info for audit
+pull_fax_and_portal_instruction_bq,auditQueries,fax and portal document event for audit
+

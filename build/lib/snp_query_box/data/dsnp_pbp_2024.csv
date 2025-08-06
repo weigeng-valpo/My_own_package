@@ -1,0 +1,106 @@
+﻿Contract Year,Region,Market Name,Contract,PBP,Product,Plan Type,Platform
+2024,Mid Atlantic,Ohio/Kentucky,H0628,012,MAPD,HMO,DSNP
+2024,Mid Atlantic,Ohio/Kentucky,H0628,013,MAPD,HMO,DSNP
+2024,North Central,Midlands,H1608,062,MAPD,PPO,DSNP
+2024,Southeast,Georgia/Gulf States,H1608,076,MAPD,PPO,DSNP
+2024,Southeast,Georgia/Gulf States,H1608,077,MAPD,PPO,DSNP
+2024,Southeast,Florida,H1609,017,MAPD,HMO,DSNP
+2024,Southeast,Florida,H1609,019,MAPD,HMO,DSNP
+2024,Southeast,Florida,H1609,043,MAPD,HMO,DSNP
+2024,Southeast,Florida,H1609,044,MAPD,HMO,DSNP
+2024,Southeast,Florida,H1609,045,MAPD,HMO,DSNP
+2024,Southeast,Florida,H1609,046,MAPD,HMO,DSNP
+2024,Southeast,Florida,H1609,047,MAPD,HMO,DSNP
+2024,Southeast,Florida,H1609,048,MAPD,HMO,DSNP
+2024,Southeast,Florida,H1609,049,MAPD,HMO,DSNP
+2024,Southeast,Florida,H1609,055,MAPD,HMO,DSNP
+2024,Southeast,Florida,H1609,056,MAPD,HMO,DSNP
+2024,Southeast,Florida,H1609,061,MAPD,HMO,DSNP
+2024,Southeast,Florida,H1609,062,MAPD,HMO,DSNP
+2024,Southeast,Florida,H1609,064,MAPD,HMO,DSNP
+2024,Southeast,Florida,H1609,065,MAPD,HMO,DSNP
+2024,Mid Atlantic,Capitol,H1610,001,MAPD,HMO,DSNP (FIDE)
+2024,Mid Atlantic,Capitol,H1610,002,MAPD,HMO,DSNP
+2024,Mid Atlantic,Capitol,H1610,003,MAPD,HMO,DSNP
+2024,Mid Atlantic,Keystone,H1692,005,MAPD,HMO,DSNP
+2024,Southeast,Georgia/Gulf States,H2293,002,MAPD,PPO,DSNP
+2024,Southeast,Georgia/Gulf States,H2293,003,MAPD,PPO,DSNP
+2024,Southeast,Georgia/Gulf States,H2293,004,MAPD,PPO,DSNP
+2024,Southeast,Georgia/Gulf States,H2293,005,MAPD,PPO,DSNP
+2024,Southeast,Georgia/Gulf States,H2293,021,MAPD,PPO,DSNP
+2024,Southeast,Georgia/Gulf States,H2293,022,MAPD,PPO,DSNP
+2024,Southeast,Mid South,H3146,002,MAPD,HMO,DSNP
+2024,Southeast,Mid South,H3146,003,MAPD,HMO,DSNP
+2024,Southeast,Mid South,H3146,008,MAPD,HMO,DSNP
+2024,Southeast,Mid South,H3146,009,MAPD,HMO,DSNP
+2024,Southeast,Mid South,H3146,015,MAPD,HMO,DSNP
+2024,Southeast,Mid South,H3146,016,MAPD,HMO,DSNP
+2024,Southeast,Mid South,H3146,017,MAPD,HMO,DSNP
+2024,Southeast,Mid South,H3146,018,MAPD,HMO,DSNP
+2024,Southeast,Mid South,H3146,019,MAPD,HMO,DSNP
+2024,North Central,Great Lakes,H3192,007,MAPD,HMO,DSNP
+2024,North Central,Great Lakes,H3192,008,MAPD,HMO,DSNP
+2024,North Central,Great Lakes,H3192,009,MAPD,HMO,DSNP
+2024,Southeast,Georgia/Gulf States,H3239,001,MAPD,HMO,DSNP
+2024,Southeast,Georgia/Gulf States,H3239,002,MAPD,HMO,DSNP
+2024,Southeast,Georgia/Gulf States,H3239,003,MAPD,HMO,DSNP
+2024,Southeast,Georgia/Gulf States,H3239,005,MAPD,HMO,DSNP
+2024,Southeast,Georgia/Gulf States,H3239,006,MAPD,HMO,DSNP
+2024,Southeast,Georgia/Gulf States,H3239,007,MAPD,HMO,DSNP
+2024,Southeast,Georgia/Gulf States,H3239,008,MAPD,HMO,DSNP
+2024,Southeast,Georgia/Gulf States,H3239,010,MAPD,HMO,DSNP
+2024,Southeast,Georgia/Gulf States,H3239,011,MAPD,HMO,DSNP
+2024,Southeast,Georgia/Gulf States,H3239,012,MAPD,HMO,DSNP
+2024,Southeast,Georgia/Gulf States,H3239,013,MAPD,HMO,DSNP
+2024,Southeast,Georgia/Gulf States,H3239,015,MAPD,HMO,DSNP
+2024,Southeast,Georgia/Gulf States,H3239,016,MAPD,HMO,DSNP
+2024,Southeast,Georgia/Gulf States,H3239,018,MAPD,HMO,DSNP
+2024,Southeast,Georgia/Gulf States,H3239,019,MAPD,HMO,DSNP
+2024,Northeast,New York,H3312,069,MAPD,HMO,DSNP
+2024,Northeast,New York,H3312,070,MAPD,HMO,DSNP
+2024,Northeast,New York,H3312,073,MAPD,HMO,DSNP (FIDE)
+2024,Northeast,New England,H3597,011,MAPD,HMOPOS,DSNP
+2024,Northeast,New England,H3597,012,MAPD,HMOPOS,DSNP
+2024,Mid Atlantic,Capitol,H3931,159,MAPD,HMO,DSNP
+2024,Mid Atlantic,Keystone,H3959,035,MAPD,HMO,DSNP
+2024,Mid Atlantic,Keystone,H3959,036,MAPD,HMO,DSNP
+2024,Mid Atlantic,Keystone,H3959,063,MAPD,HMO,DSNP
+2024,West,Mountain,H4711,011,MAPD,HMO,DSNP
+2024,North Central,Midlands,H4711,012,MAPD,HMO,DSNP
+2024,West,Mountain,H4711,013,MAPD,HMO,DSNP
+2024,West,California,H4982,008,MAPD,HMO,DSNP
+2024,West,California,H4982,009,MAPD,HMO,DSNP
+2024,West,California,H4982,016,MAPD,HMO,DSNP
+2024,Southeast,Georgia/Gulf States,H5302,012,MAPD,HMO,DSNP
+2024,Southeast,Georgia/Gulf States,H5302,013,MAPD,HMO,DSNP
+2024,Southeast,Georgia/Gulf States,H5302,014,MAPD,HMO,DSNP
+2024,Southeast,Georgia/Gulf States,H5302,020,MAPD,HMO,DSNP
+2024,North Central,Heartland,H5325,001,MAPD,HMO,DSNP
+2024,North Central,Heartland,H5325,002,MAPD,HMO,DSNP
+2024,North Central,Heartland,H5325,003,MAPD,HMO,DSNP
+2024,North Central,Heartland,H5325,004,MAPD,HMO,DSNP
+2024,North Central,St. Louis,H5325,005,MAPD,HMO,DSNP
+2024,North Central,St. Louis,H5325,006,MAPD,HMO,DSNP
+2024,Southeast,Georgia/Gulf States,H5325,007,MAPD,HMO,DSNP
+2024,North Central,Heartland,H5325,009,MAPD,HMO,DSNP
+2024,Southeast,Georgia/Gulf States,H5325,010,MAPD,HMO,DSNP
+2024,Southeast,Georgia/Gulf States,H5325,011,MAPD,HMO,DSNP
+2024,West,Mountain,H5521,398,MAPD,PPO,DSNP
+2024,Southeast,Georgia/Gulf States,H5521,462,MAPD,PPO,DSNP
+2024,Southeast,Georgia/Gulf States,H5521,463,MAPD,PPO,DSNP
+2024,Southeast,Georgia/Gulf States,H5521,464,MAPD,PPO,DSNP
+2024,Southeast,Georgia/Gulf States,H5521,465,MAPD,PPO,DSNP
+2024,Southeast,Georgia/Gulf States,H5521,468,MAPD,PPO,DSNP
+2024,Southeast,Georgia/Gulf States,H5521,469,MAPD,PPO,DSNP
+2024,Southeast,Georgia/Gulf States,H5521,472,MAPD,PPO,DSNP
+2024,Southeast,Georgia/Gulf States,H5521,473,MAPD,PPO,DSNP
+2024,Mid Atlantic,Keystone,H5522,024,MAPD,PPO,DSNP
+2024,North Central,Midlands,H5593,001,MAPD,HMO,DSNP
+2024,Northeast,New England,H5793,017,MAPD,HMOPOS,DSNP
+2024,Northeast,New England,H5793,020,MAPD,HMOPOS,DSNP
+2024,Northeast,New Jersey,H6399,001,MAPD,HMO,DSNP (FIDE)
+2024,North Central,Midlands,H7149,006,MAPD,HMO,DSNP
+2024,South Central,South Central,H8597,001,MAPD,HMO,DSNP
+2024,South Central,South Central,H8597,002,MAPD,HMO,DSNP
+2024,South Central,South Central,H8597,003,MAPD,HMO,DSNP
+2024,West,Mountain,H8649,010,MAPD,HMO,DSNP

@@ -1,0 +1,21 @@
+﻿MEASURE_ID,MEASURE_NM,DOMAIN,FORECAST_WEIGHT,STAR_5_FORECAST,STAR_4_FORECAST,STAR_3_FORECAST,STAR_2_FORECAST
+101803,Controlling Blood Pressure,HEDIS,3,0.84,0.76,0.7,0.57
+102401,Colorectal Cancer Screening,HEDIS,1,0.8,0.72,0.62,0.53
+600452,Colorectal Cancer Screening,HEDIS,1,0.8,0.72,0.62,0.53
+104201,Osteoporosis Management in Women who had a Fracture,HEDIS,1,0.72,0.56,0.45,0.31
+107125,Care for Older Adults - Medication Review,HEDIS,1,0.99,0.94,0.83,0.71
+107126,Care for Older Adults - Functional Status Assessment,HEDIS,1,0.95,0.82,0.68,0.51
+107127,Care for Older Adults - Pain Assessment,HEDIS,1,0.97,0.93,0.85,0.73
+201180,Medication Adherence for Cholesterol (Statins),PatientSafety,3,0.93,0.9,0.88,0.85
+201181,Medication Adherence for Hypertension (RAS antagonists),PatientSafety,3,0.92,0.91,0.88,0.84
+201182,Medication Adherence for Diabetes Medications,PatientSafety,3,0.91,0.88,0.85,0.81
+201183,Statin Use in Persons with Diabetes (SUPD),PatientSafety,1,0.92,0.89,0.87,0.82
+201184,MTM Program Completion Rate for CMR,PatientSafety,1,0.94,0.87,0.78,0.67
+201507,Statin Therapy for Patients with Cardiovascular Disease,HEDIS,1,0.91,0.87,0.85,0.8
+600070,Medication Reconciliation Post-Discharge,HEDIS,1,0.83,0.69,0.55,0.41
+600094,Follow-up after ED Visit (FMC),HEDIS,1,0.71,0.64,0.57,0.48
+600454,Breast Cancer Screening,HEDIS,1,0.82,0.74,0.66,0.52
+600484,Kidney Health Evaluation for Patients with Diabetes,HEDIS,1,0.68,0.51,0.39,0.26
+900793,Diabetes Care - Eye Exam,HEDIS,1,0.81,0.73,0.67,0.54
+999600,Transitions of Care (Part C) - Average,HEDIS,1,0.78,0.66,0.56,0.45
+999998,Diabetes Care - Blood Sugar Controlled,HEDIS,3,0.89,0.82,0.72,0.6

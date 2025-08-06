@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: snp_query_box
+Version: 2.11.6
+Summary: keep dsnp related queries
+Author: Nathan Lim
+Author-email: LimS@aetna.com
+Requires-Python: >=3.6
+Requires-Dist: numpy>=1.17.3
+Requires-Dist: pandas>=1.5.0
+Requires-Dist: scikit-learn>=0.22.1
+Requires-Dist: matplotlib>=2.2.2
+Requires-Dist: seaborn>=0.11.0
